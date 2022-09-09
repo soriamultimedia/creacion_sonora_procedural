@@ -8,3 +8,21 @@ sus propios procesos creativos con estas bases formalizadas.
 
 Si el lector/lectora decide utilizar alguno de los archivos para sus procesos creativos personales, siéntase en la total libertad de hacerlo; 
 sólo por favor no se olvide de citar y/o referenciar adecuadamente.
+
+
+Instalación de Python:
+https://www.anaconda.com/products/distribution
+
+Paqueterías externas de Python usadas en algunos ejemplos:
+https://docs.sympy.org/latest/index.html
+https://pypi.org/project/MIDIUtil/
+https://github.com/gboeing/pynamical
+
+
+Instalación de Supercollider
+https://supercollider.github.io/
+
+
+Descarga directa del libro:
+https://www.cmmas.store/product-page/principios-de-creaci%C3%B3n-sonora-procedural
+
