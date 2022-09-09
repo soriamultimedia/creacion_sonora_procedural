@@ -1,0 +1,10 @@
+Archivos de ejemplos de implementaciones de Python y Supercollider para el libro Pricnipios de Creación Sonora Procedural.
+Los ejemplos se proponen como implementaciones prácticas del material teórico desarrollado en el libro, y el objetivo principal radica 
+en que la/el lectora/lector, pueda tener una comprensión más amplia de dichos temas abstractos. Se podrán encontrar lgunos ejemplos 
+en donde se realizan ciertas aplicaciones sonoras y/o de composición directas, pero al igual que en el texto, esto no constituye el interés
+u objetivo fundamental de la obra, sino que se busca en cambio, que las personas interesadas, puedan obtener un acercamiento más bien formal 
+a los conceptos, procesos lógicos, lenguaje y manejo de algunos temas básicos de matemáticas con el fin de que posteriormente pueda implementar
+sus propios procesos creativos con estas bases formalizadas.
+
+Si el lector/lectora decide utilizar alguno de los archivos para sus procesos creativos personales, siéntase en la total libertad de hacerlo; 
+sólo por favor no se olvide de citar y/o referenciar adecuadamente.
